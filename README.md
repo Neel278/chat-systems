@@ -7,5 +7,5 @@ This system is created by Neel Thakkar.
 #### Database Note:
 Because of some technical issues database file got currepted so it has been removed but it's very easy structure but if you are still confused contact me.
 
-####Contact Details:
+### Contact Details:
 My mail id:: neelthakkar2001@gmail.com
